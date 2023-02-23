@@ -1,0 +1,14 @@
+#banner {
+  background-image: asset-url("theatre.jpeg");
+  width:100vw;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+
+  h2 {
+    color: white;
+    font-weight: bold;
+  }
+}
